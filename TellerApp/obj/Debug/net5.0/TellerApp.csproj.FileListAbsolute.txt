@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\bin\Debug\net5.0\TellerApp.exe
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\bin\Debug\net5.0\TellerApp.deps.json
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\bin\Debug\net5.0\TellerApp.runtimeconfig.json
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\bin\Debug\net5.0\TellerApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\bin\Debug\net5.0\TellerApp.dll
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\bin\Debug\net5.0\ref\TellerApp.dll
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\bin\Debug\net5.0\TellerApp.pdb
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.AssemblyInfo.cs
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.dll
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\ref\TellerApp.dll
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.pdb
+C:\Users\User\Desktop\PROJECTS\TellerApp\TellerApp\obj\Debug\net5.0\TellerApp.genruntimeconfig.cache
